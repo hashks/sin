@@ -1,4 +1,4 @@
-import foto from "../sintapict2.jpg";
+import foto from "./sintapict2.jpg";
 
 export default function Hero(){
 return(
